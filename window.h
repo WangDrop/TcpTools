@@ -5,7 +5,7 @@
 #include "mytcpserver.h"
 
 namespace Ui {
-class Window;
+    class Window;
 }
 
 class Window : public QWidget
